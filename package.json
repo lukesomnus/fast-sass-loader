@@ -1,5 +1,5 @@
 {
-  "name": "fast-sass-loader",
+  "name": "fast-sass-loader-china2",
   "description": "fast sass loader for webpack",
   "version": "1.4.6",
   "main": "lib/index.js",
@@ -48,7 +48,7 @@
     "loader-utils": "^1.1.0"
   },
   "peerDependencies": {
-    "node-sass": "4.x || 3.x",
+    "node-sass-china": "4.x || 3.x",
     "webpack": "1.x || 2.x || 3.x || 4.x"
   },
   "devDependencies": {
@@ -59,7 +59,7 @@
     "file-loader": "^0.9.0",
     "husky": "*",
     "mocha": "^3.2.0",
-    "node-sass": "^4.0.0",
+    "node-sass-china": "^4.0.0",
     "npm-ensure": "^1.1.0",
     "nyc": "*",
     "raw-loader": "^0.5.1",
@@ -70,16 +70,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yibn2008/fast-sass-loader.git"
+    "url": "git+https://github.com/lukesomnus/fast-sass-loader.git"
   },
   "keywords": [
     "sass-loader",
-    "fast"
+    "fast",
+    "sass-loader-china",
+    "sass-loader-china2"
   ],
-  "author": "yibn2008",
+  "author": "lukesomnus",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/yibn2008/fast-sass-loader/issues"
-  },
-  "homepage": "https://github.com/yibn2008/fast-sass-loader#readme"
+  "homepage": "https://github.com/lukesomnus/fast-sass-loader#readme"
 }
