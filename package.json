@@ -45,7 +45,8 @@
     "cli-source-preview": "^1.0.0",
     "co": "^4.6.0",
     "fs-extra": "3.x",
-    "loader-utils": "^1.1.0"
+    "loader-utils": "^1.1.0",
+    "user": "0.0.0"
   },
   "peerDependencies": {
     "node-sass-china": "4.x || 3.x",
@@ -75,10 +76,12 @@
   "keywords": [
     "sass-loader",
     "fast",
-    "sass-loader-china",
-    "sass-loader-china2"
+    "sass-loader-china"
   ],
   "author": "lukesomnus",
+  "bugs": {
+    "url": "https://github.com/lukesomnus/fast-sass-loader/issues"
+  },
   "license": "MIT",
   "homepage": "https://github.com/lukesomnus/fast-sass-loader#readme"
 }
